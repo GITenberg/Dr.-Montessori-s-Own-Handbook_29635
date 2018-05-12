@@ -1,0 +1,39 @@
+_repo: Dr.-Montessori-s-Own-Handbook_29635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montessori, Maria
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '26701'
+    url: http://www.gutenberg.org/2009/agents/26701
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Maria_Montessori
+    - http://it.wikipedia.org/wiki/Maria_Montessori
+description: <p>This classic best-seller is a reproduction Dr. Maria Montessori's
+  Classic Education Book "Dr. Montessori's own Handbook" originally published in 1914.
+  One of the truly great books on early childhood development, this brief guide instructs
+  parents and teachers on how to use familiar, easy-to-obtain classroom materials
+  to make the home an effective learning environment. The book covers methods for
+  engaging youngsters in learning while stimulating and honing their visual, auditory,
+  and tactile perceptions. An illustrated guide to the use of Montessori classroom
+  materials. Describes how to set up a "children's house" - an environment for learning
+  where children can be their own masters.
+gutenberg_bookshelf: Education
+gutenberg_issued: '2009-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29635'
+  lccn: '14010265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Montessori method of education'
+title: Dr. Montessori's Own Handbook
+url: http://www.gutenberg.org/ebooks/29635
